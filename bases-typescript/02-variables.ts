@@ -13,3 +13,5 @@ console.log("Tests réussis :", nombreDeTestsReussis);
 // Un test vient de réussir : on change le contenu de la boîte "let"
 nombreDeTestsReussis = 1;
 console.log("Tests réussis :", nombreDeTestsReussis);
+nombreDeTestsReussis = 2;
+console.log("Tests réussis :", nombreDeTestsReussis);
