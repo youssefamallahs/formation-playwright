@@ -11,4 +11,5 @@ en vue de missions de QA automaticien.
 
 - [x] Module 0 : les fondamentaux
 - [x] Module 1 : préparation du poste de travail
-- [ ] Module 2 : les bases de TypeScript
+- [x] Module 2 : les bases de TypeScript
+- [ ] Module 3 : installation et configuration de Playwright
