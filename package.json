@@ -1,0 +1,23 @@
+{
+  "name": "formation-playwright",
+  "version": "1.0.0",
+  "description": "Projet d'apprentissage de l'automatisation de tests avec **Playwright** et **TypeScript**.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youssefamallahs/formation-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/youssefamallahs/formation-playwright/issues"
+  },
+  "homepage": "https://github.com/youssefamallahs/formation-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}
